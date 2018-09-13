@@ -1,5 +1,5 @@
 {
-  "name": "tvmaze",
+  "name": "tvmaze_alvaro_test",
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
